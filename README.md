@@ -1,6 +1,6 @@
 ## Self-hosted WordPress website for rtCamp assignment program
 
-Code and configuration snippets for the [rtCamp assignment program](https://ooioo.co) .
+Code and configuration snippets for the [rtCamp assignment program](https://github.com/dkarthe/rtCamp) .
 
 Just navigate to whichever section you need help with to deploy fresh wordpress site.
 
@@ -11,7 +11,7 @@ Just navigate to whichever section you need help with to deploy fresh wordpress 
 * Head over to [EasyEngine](https://easyengine.io/) to install Nginx, WordPress.
 * In a simple commands to run a PHP, Mysql, Nginx & WordPress are installed on Ubuntu server.
 * Point out Server IP address to Domian Name, Nameservers,etc. to setup domain controlpanel.
-* Setup the secure website using [LetsEncrypt](https://letsencrypt.org/)
+* To Setup a secure website using [LetsEncrypt](https://letsencrypt.org/)
 * Lets take a look out a browser to open a fresh Wordpress website is live on the given domain name.
 * Enjoy :)
 
